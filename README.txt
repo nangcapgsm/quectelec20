@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 NANGCAPGSM SHOP
 
 **[NANGCAPGSM SHOP](https://nangcapgsm.com)**  
@@ -28,8 +26,8 @@
 
 ---
 
-<div align="center">
+
 
 🌐 **Website:** [https://nangcapgsm.com](https://nangcapgsm.com)
 
-</div>
+
